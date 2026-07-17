@@ -10,7 +10,3 @@ A [Software Engineer](http://linkedin.com/in/arazgray), [Blogger](https:/arazgra
 
 ## Contact 
 [contact@arazgray.com](mailto:contact@arazgray.com)
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=arazgray&show_icons=true&hide=stars&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arazgray&layout=compact&langs_count=10)
