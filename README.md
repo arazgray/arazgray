@@ -1,54 +1,89 @@
-# Hi, I'm Araz Gray
+<div align="center">
 
-[Software Engineer](https://linkedin.com/in/arazgray), [Blogger](https://arazgray.com), and creator of various software, language tools, and web projects.
+# Araz Gray
 
-### Azerbaijani Turkic and Language Tools
+**Software Engineer · Builder · Blogger**
 
-* [Durnam](https://durnam.com) - Language and culture platform
-* [Turkish Pantomime](https://durnam.com/pantomime)
-* [Nasimi](https://github.com/arazgray/nasimi)
-* [Azerbaijani Turkic AI Skill](https://github.com/arazgray/azerbaijani-turkic-azb-ai-skill)
-* [Azerbaijani Turkic Keyboard for iOS](https://github.com/arazgray/azerbaijani-turkic-keyboard-ios)
-* [Turkce Keyboard](https://github.com/arazgray/turkcekeyboard) - Azerbaijani Turkic keyboard for the web
-* [Xaqan Font Family](https://github.com/arazgray/Xaqan-Font-Family)
-* [OmaLang](https://github.com/arazgray/omalang)
-* [KomaLang](https://github.com/arazgray/komalang)
+I build software, language tools, editors, and small things for the web.
 
-### Writing & Markdown
+[Website](https://arazgray.com) · [LinkedIn](https://linkedin.com/in/arazgray) · [GitHub](https://github.com/arazgray)
 
-* [Odak.app](https://odak.app) - Notes and writing
-* [WYSIWYG Markdown Editor](https://arazgray.github.io/markdown-editor/)
-* [Markdown Editor](https://github.com/arazgray/markdown-editor)
+</div>
 
-### Media & Entertainment
+---
 
-* [Wave](https://github.com/arazgray/wave) - Radio app
-* [Awesome M3U Editor](https://arazgray.github.io/awesome-m3u-editor/)
-* [Soundscape AI](https://durnam.com/soundscape/)
+## 𐀀 Azerbaijani Turkic & Language
 
-### Productivity
-* [DoTo](https://arazgray.github.io/doto/) - Task manager
-* [Easy Reader](https://github.com/arazgray/easy-reader)
-  
-### Developer Tools
-* [AZ Editor](https://github.com/arazgray/az)
-* [VimSane](https://github.com/arazgray/vimsane) - Vim configuration
-* [EasyCompress](https://durnam.com/easycompress/)
-* [Bayqus](https://durnam.com/bayqus)
-* [Omarchy Site](https://github.com/arazgray/omarchy-site)
+Projects around Azerbaijani Turkic, language technology, writing systems, and keyboards.
 
-### Experiments
-* [Could You Hide From Me?](https://arazgray.com/ip/) - IP and network experiment
+* **[Durnam](https://durnam.com)** · Azerbaijani Turkic language toolkit for transliteration, translation, dictionaries, OCR, spelling, and more
+* **[Nasimi](https://github.com/arazgray/nasimi)** · An Azerbaijani programming language layer over Python, with Latin and Arabic scripts, CLI, playground, and editor support
+* **[Azerbaijani Turkic AI Skill](https://github.com/arazgray/azerbaijani-turkic-azb-ai-skill)** · Orthography rules for generating and normalizing Azerbaijani Turkic in Arabic script
+* **[Azerbaijani Turkic Keyboard for iOS](https://github.com/arazgray/azerbaijani-turkic-keyboard-ios)** · A native system keyboard for writing Azerbaijani Turkic in Arabic script
+* **[Turkce Keyboard](https://github.com/arazgray/turkcekeyboard)** · Azerbaijani Turkic Arabic-script keyboard for the web
+* **[Xaqan Font Family](https://github.com/arazgray/Xaqan-Font-Family)** · Azerbaijani Turkic Arabic-script fonts based on Vazir
+* **[OmaLang](https://github.com/arazgray/omalang)** · Keyboard layout manager for Omarchy and Hyprland
+* **[KomaLang](https://github.com/arazgray/komalang)** · KDE Plasma 6 version of OmaLang
+* **[Turkish Pantomime](https://durnam.com/pantomime)** · A visual way to learn and explore Turkish words
 
-[See all repositories →](https://github.com/arazgray?tab=repositories)
+---
 
+## ✍️ Writing & Reading
 
-## Social
-- [Twitter/X](https://x.com/arazgray)
-- [Unsplash](https://unsplash.com/@arazgray)
+Tools for focused writing, Markdown, and better reading.
 
-## Blogs
-- [arazgray.com](https://arazgray.com)
+* **[Odak](https://odak.app)** · A focused, local-first Markdown writing space with offline and RTL/LTR support
+* **[WYSIWYG Markdown Editor](https://arazgray.github.io/markdown-editor/)** · Write Markdown visually without leaving the browser
+* **[Easy Reader](https://github.com/arazgray/easy-reader)** · Chrome extension for distraction-free reading with automatic RTL/LTR support
 
-## Contact 
-[contact@arazgray.com](mailto:contact@arazgray.com)
+---
+
+## 📻 Media & Play
+
+Small tools for listening, playlists, and messing around with media.
+
+* **[Wave](https://arazgray.github.io/wave/)** · A simple way to listen to good radio stations
+* **[Awesome M3U Editor](https://arazgray.github.io/awesome-m3u-editor/)** · Private, browser-based M3U/M3U8 playlist editor
+* **[Soundscape AI](https://durnam.com/soundscape/)** · AI-powered soundscape experiment
+
+---
+
+## 🛠️ Developer Tools
+
+Things I build because existing tools sometimes annoy me.
+
+* **[az](https://github.com/arazgray/az)** · A small, sane terminal text editor written in Rust
+* **[VimSane](https://github.com/arazgray/vimsane)** · My personal sane Vim configuration
+* **[EasyCompress](https://durnam.com/easycompress/)** · Local image compression and resizing for JPEG and PNG
+* **[Bayqus](https://durnam.com/bayqus)** · A small developer experiment
+* **[Omarchy Site](https://github.com/arazgray/omarchy-site)** · My contribution to the Omarchy website
+
+---
+
+## ☑️ Productivity
+
+* **[DoTo](https://arazgray.github.io/doto/)** · A privacy-first, offline task manager
+
+---
+
+## 🧪 Experiments
+
+Because not everything needs to become a startup.
+
+* **[Could You Hide From Me?](https://arazgray.com/ip/)** · A small experiment about IP addresses and what websites can see
+
+---
+
+<div align="center">
+
+### Elsewhere
+
+[𝕏 / Twitter](https://x.com/arazgray) · [Unsplash](https://unsplash.com/@arazgray) · [Blog](https://arazgray.com)
+
+**[contact@arazgray.com](mailto:contact@arazgray.com)**
+
+<br>
+
+[→ See all repositories](https://github.com/arazgray?tab=repositories)
+
+</div>
