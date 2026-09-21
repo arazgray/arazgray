@@ -2,9 +2,9 @@
 
 # Araz Gray
 
-**Software Engineer · Builder · Blogger**
+**Software Engineer · Creator · Blogger**
 
-I build software, language tools, editors, and small things for the web.
+I make software, language tools, editors, and small things for the web.
 
 [Website](https://arazgray.com) · [LinkedIn](https://linkedin.com/in/arazgray) · [GitHub](https://github.com/arazgray)
 
@@ -25,7 +25,7 @@ Projects around Azerbaijani Turkic, language technology, writing systems, and ke
 * **[OmaLang](https://github.com/arazgray/omalang)** · Keyboard layout manager for Omarchy and Hyprland
 * **[KomaLang](https://github.com/arazgray/komalang)** · KDE Plasma 6 version of OmaLang
 * **[Turkish Pantomime](https://durnam.com/pantomime)** · A visual way to learn and explore Turkish words
-
+* **[Bayqus](https://durnam.com/bayqus)** · A small developer experiment for Torrent
 ---
 
 ## ✍️ Writing & Reading
@@ -45,7 +45,6 @@ Small tools for listening, playlists, and messing around with media.
 * **[Wave](https://arazgray.github.io/wave/)** · A simple way to listen to good radio stations
 * **[Awesome M3U Editor](https://arazgray.github.io/awesome-m3u-editor/)** · Private, browser-based M3U/M3U8 playlist editor
 * **[Soundscape AI](https://durnam.com/soundscape/)** · AI-powered soundscape experiment
-
 ---
 
 ## 🛠️ Developer Tools
@@ -55,7 +54,6 @@ Things I build because existing tools sometimes annoy me.
 * **[az](https://github.com/arazgray/az)** · A small, sane terminal text editor written in Rust
 * **[VimSane](https://github.com/arazgray/vimsane)** · My personal sane Vim configuration
 * **[EasyCompress](https://durnam.com/easycompress/)** · Local image compression and resizing for JPEG and PNG
-* **[Bayqus](https://durnam.com/bayqus)** · A small developer experiment
 * **[Omarchy Site](https://github.com/arazgray/omarchy-site)** · My contribution to the Omarchy website
 
 ---
