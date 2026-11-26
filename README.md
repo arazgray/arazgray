@@ -41,8 +41,8 @@ Tools for focused writing, Markdown, and better reading.
 ## 📻 Media & Play
 
 Small tools for listening, playlists, and messing around with media.
-* **[https://github.com/arazgray/coffee)** ·  Rust-based Video, Music and Photo Player
-* * **[https://github.com/arazgray/kahve-player)** ·  Chrome-based Video, Music and Photo Player
+* **[Coffee](https://github.com/arazgray/coffee)** ·  Rust-based Video, Music and Photo Player
+* **[kahve-player](https://github.com/arazgray/kahve-player)** ·  Chrome-based Video, Music and Photo Player
 * **[Wave](https://arazgray.github.io/wave/)** · A simple way to listen to good radio stations
 * **[Awesome M3U Editor](https://arazgray.github.io/awesome-m3u-editor/)** · Private, browser-based M3U/M3U8 playlist editor
 * **[Soundscape AI](https://durnam.com/soundscape/)** · AI-powered soundscape experiment
@@ -55,12 +55,12 @@ Things I build because existing tools sometimes annoy me.
 * **[az](https://github.com/arazgray/az)** · A small, sane terminal text editor written in Rust
 * **[VimSane](https://github.com/arazgray/vimsane)** · My personal sane Vim configuration
 * **[EasyCompress](https://durnam.com/easycompress/)** · Local image compression and resizing for JPEG and PNG
-* **[Omarchy Site](https://github.com/arazgray/omarchy-site)** · My contribution to the Omarchy website
+* **[SmartDNS Installer](https://github.com/arazgray/1-command-smartdns-installer)** · 1 Command SmartDNS Installer
 
 ---
 
 ## ☑️ Productivity
-
+* **[Dotoist](https://dotoist.com/)** · A privacy-first, offline task manager
 * **[DoTo](https://arazgray.github.io/doto/)** · A privacy-first, offline task manager
 
 ---
