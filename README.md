@@ -41,7 +41,8 @@ Tools for focused writing, Markdown, and better reading.
 ## 📻 Media & Play
 
 Small tools for listening, playlists, and messing around with media.
-
+* **[https://github.com/arazgray/coffee)** ·  Rust-based Video, Music and Photo Player
+* * **[https://github.com/arazgray/kahve-player)** ·  Chrome-based Video, Music and Photo Player
 * **[Wave](https://arazgray.github.io/wave/)** · A simple way to listen to good radio stations
 * **[Awesome M3U Editor](https://arazgray.github.io/awesome-m3u-editor/)** · Private, browser-based M3U/M3U8 playlist editor
 * **[Soundscape AI](https://durnam.com/soundscape/)** · AI-powered soundscape experiment
